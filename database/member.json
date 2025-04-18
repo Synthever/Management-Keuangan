@@ -1,0 +1,20 @@
+{
+    "member": [
+        {
+            "id_member": 1,
+            "nama": "Dania Brigita Chandra Kirana",
+            "gender": "Perempuan",
+            "telp": "081234567890",
+            "alamat": "Kalasan",
+            "email": "daniabrigita25@students.amikom.ac.id"
+        },
+        {
+            "id_member": 2,
+            "nama": "bdbawbdiabdi",
+            "gender": "Wanita",
+            "telp": "17b0e028709a59e6d86cfba7a27f0ac2",
+            "alamat": "dbuaiudbadb",
+            "email": "bdiavdvw@gmail.com"
+        }
+    ]
+}
