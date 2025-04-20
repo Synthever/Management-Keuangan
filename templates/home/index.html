@@ -1,9 +1,9 @@
-{% extends 'home/base.html' %} 
+{% extends 'home/base.html' %}
 {% block content %}
 
 <div class="container-fluid">
     <div class="d-sm-flex align-items-center justify-content-between mb-4">
-        <h1 class="h3 mb-0 text-gray-800">Dashboard Perpustakaan</h1>
+        <h1 class="h3 mb-0 text-gray-800">Dashboard Money management</h1>
     </div>
 
     <!-- Content Row -->
@@ -17,7 +17,7 @@
                             <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
                                 Total Buku
                             </div>
-                            <div class="h5 mb-0 font-weight-bold text-gray-800">{{ books|length }}</div>
+                            <div class="h5 mb-0 font-weight-bold text-gray-800">pppp</div>
                         </div>
                         <div class="col-auto">
                             <i class="fas fa-book fa-2x text-gray-300"></i>
@@ -36,7 +36,7 @@
                             <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
                                 Total Member
                             </div>
-                            <div class="h5 mb-0 font-weight-bold text-gray-800">{{ members|length }}</div>
+                            <div class="h5 mb-0 font-weight-bold text-gray-800">ppp</div>
                         </div>
                         <div class="col-auto">
                             <i class="fas fa-users fa-2x text-gray-300"></i>
@@ -56,7 +56,7 @@
                                 Peminjaman Aktif
                             </div>
                             <div class="h5 mb-0 font-weight-bold text-gray-800">
-                                {{ active_loans|length }}
+                                pppp
                             </div>
                         </div>
                         <div class="col-auto">
@@ -77,7 +77,7 @@
                                 Total Denda
                             </div>
                             <div class="h5 mb-0 font-weight-bold text-gray-800">
-                                Rp {{ total_denda }}
+                                Rp pppp
                             </div>
                         </div>
                         <div class="col-auto">
@@ -109,30 +109,20 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {% for loan in recent_loans %}
                                 <tr>
-                                    <td>{{ loan.buku.judul }}</td>
-                                    <td>{{ loan.member.nama }}</td>
-                                    <td>{{ loan.tanggal_pinjam }}</td>
+                                    <td>pppp</td>
+                                    <td>pppp</td>
+                                    <td>pppp</td>
                                     <td>
-                                        {% if loan.status == 'dipinjam' %}
-                                            {% if loan.is_terlambat %}
-                                            <span class="badge badge-danger">Terlambat</span>
-                                            {% else %}
-                                            <span class="badge badge-warning">Dipinjam</span>
-                                            {% endif %}
-                                        {% else %}
-                                        <span class="badge badge-success">Dikembalikan</span>
-                                        {% endif %}
+                                        pppp
                                     </td>
                                 </tr>
-                                {% endfor %}
                             </tbody>
                         </table>
                     </div>
                 </div>
             </div>
-            
+
             <!-- Late Loans -->
             <div class="card shadow mb-4">
                 <div class="card-header py-3">
@@ -151,15 +141,13 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {% for loan in late_loans %}
                                 <tr>
-                                    <td>{{ loan.buku.judul }}</td>
-                                    <td>{{ loan.member.nama }}</td>
-                                    <td>{{ loan.tanggal_kembali }}</td>
-                                    <td>{{ loan.days_late }} hari</td>
-                                    <td>Rp {{ "{:,}".format(loan.denda) }}</td>
+                                    <td>pppp</td>
+                                    <td>pppp</td>
+                                    <td>pppp</td>
+                                    <td>pppp</td>
+                                    <td>pppp</td>
                                 </tr>
-                                {% endfor %}
                             </tbody>
                         </table>
                     </div>
@@ -183,14 +171,12 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {% for book in low_stock_books %}
                                 <tr>
-                                    <td>{{ book.judul }}</td>
+                                    <td>pppp</td>
                                     <td>
-                                        <span class="badge badge-danger">{{ book.stock }}</span>
+                                        <span class="badge badge-danger">ppppp</span>
                                     </td>
                                 </tr>
-                                {% endfor %}
                             </tbody>
                         </table>
                     </div>
