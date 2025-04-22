@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "id_pemasukan": 1,
+            "nama_pemasukan": "Gaji Bulanan",
+            "jenis_pemasukan": "Salary",
+            "jumlah_pemasukan": 100000,
+            "tanggal_pemasukan": "2025-04-19"
+        }
+    ]
+}

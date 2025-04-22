@@ -1,0 +1,98 @@
+{
+    "Januari": [
+        {
+            "id_investasi": 1,
+            "tanggal": "2025-01-01",
+            "jumlah_investasi": 0,
+            "return": 0
+        }
+    ],
+    "Febuari": [
+        {
+            "id_investasi": 1,
+            "tanggal": "2025-02-01",
+            "jumlah_investasi": 0,
+            "return": 0
+        }
+    ],
+    "Maret": [
+        {
+            "id_investasi": 1,
+            "tanggal": "2025-03-26",
+            "jumlah_investasi": 160000,
+            "return": 160
+        }
+    ],
+    "April": [
+        {
+            "id_investasi": 1,
+            "tanggal": "2025-04-17",
+            "jumlah_investasi": 220000,
+            "return": 222
+        }
+    ],
+    "Mei": [
+        {
+            "id_investasi": 1,
+            "tanggal": "2025-05-01",
+            "jumlah_investasi": 0,
+            "return": 0
+        }
+    ],
+    "Juni": [
+        {
+            "id_investasi": 1,
+            "tanggal": "2025-06-01",
+            "jumlah_investasi": 0,
+            "return": 0
+        }
+    ],
+    "Juli": [
+        {
+            "id_investasi": 1,
+            "tanggal": "2025-07-01",
+            "jumlah_investasi": 0,
+            "return": 0
+        }
+    ],
+    "Agustus": [
+        {
+            "id_investasi": 1,
+            "tanggal": "2025-08-01",
+            "jumlah_investasi": 0,
+            "return": 0
+        }
+    ],
+    "September": [
+        {
+            "id_investasi": 1,
+            "tanggal": "2025-09-01",
+            "jumlah_investasi": 0,
+            "return": 0
+        }
+    ],
+    "Oktober": [
+        {
+            "id_investasi": 1,
+            "tanggal": "2025-10-01",
+            "jumlah_investasi": 0,
+            "return": 0
+        }
+    ],
+    "November": [
+        {
+            "id_investasi": 1,
+            "tanggal": "2023-11-01",
+            "jumlah_investasi": 0,
+            "return": 0
+        }
+    ],
+    "Desember": [
+        {
+            "id_investasi": 1,
+            "tanggal": "2025-12-01",
+            "jumlah_investasi": 0,
+            "return": 0
+        }
+    ]
+}

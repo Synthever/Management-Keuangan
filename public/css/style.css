@@ -1,0 +1,39 @@
+.color-pink {
+    color: #ff69b4;
+}
+
+.border-left-pink {
+    border-left: 3px solid #ff69b4 !important;
+}
+
+.color-food {
+    color: #FF9626;
+}
+
+.color-investment {
+    color: #26FF2D;
+}
+
+.color-transportation {
+    color: #3C5592;
+}
+
+.color-shopping {
+    color: #FF3232;
+}
+
+.color-entertainment {
+    color: #32D6FF;
+}
+
+.color-grocery {
+    color: #F8FF26;
+}
+
+.color-other {
+    color: #FF32E7;
+}
+
+.color-parking {
+    color: #383838;
+}

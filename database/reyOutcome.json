@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "id_pengeluaran": 1,
+            "nama_pengeluaran": "Beli Bahan Makanan",
+            "jenis_pengeluaran": "FOOD",
+            "jumlah_pengeluaran": 50000,
+            "tanggal_pengeluaran": "2025-04-19"
+        },
+        {
+            "id_pengeluaran": 2,
+            "nama_pengeluaran": "Parkir",
+            "jenis_pengeluaran": "PARKING",
+            "jumlah_pengeluaran": 2000,
+            "tanggal_pengeluaran": "2025-04-19"
+        },
+        {
+            "id_pengeluaran": 3,
+            "nama_pengeluaran": "Beli Kalkulator",
+            "jenis_pengeluaran": "SHOPPING",
+            "jumlah_pengeluaran": 15000,
+            "tanggal_pengeluaran": "2025-04-19"
+        },
+        {
+            "id_pengeluaran": 4,
+            "nama_pengeluaran": "Beli kecap",
+            "jenis_pengeluaran": "GROCERY",
+            "jumlah_pengeluaran": 17000,
+            "tanggal_pengeluaran": "2025-04-19"
+        },
+        {
+            "id_pengeluaran": 5,
+            "nama_pengeluaran": "Beli Bensin",
+            "jenis_pengeluaran": "TRANSPORTATION",
+            "jumlah_pengeluaran": 30000,
+            "tanggal_pengeluaran": "2025-04-19"
+        },
+        {
+            "id_pengeluaran": 6,
+            "nama_pengeluaran": "Nabung",
+            "jenis_pengeluaran": "INVESTMENT",
+            "jumlah_pengeluaran": 50000,
+            "tanggal_pengeluaran": "2025-04-19"
+        },
+        {
+            "id_pengeluaran": 7,
+            "nama_pengeluaran": "Nonton Bioskop",
+            "jenis_pengeluaran": "ENTERTAINMENT",
+            "jumlah_pengeluaran": 35000,
+            "tanggal_pengeluaran": "2025-04-19"
+        },
+        {
+            "id_pengeluaran": 8,
+            "nama_pengeluaran": "Uang Hilang",
+            "jenis_pengeluaran": "OTHER",
+            "jumlah_pengeluaran": 10000,
+            "tanggal_pengeluaran": "2025-04-19"
+        }
+    ]
+}
